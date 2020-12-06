@@ -31,4 +31,4 @@ codegen/
 octave-workspace
 
 # VS Code config files
-*.vscode/
+# *.vscode/
